@@ -8,4 +8,5 @@ Please set up a Jupyter Notebook or your Google Colab Environment in order to op
 If using Jupyter Notebook, please make sure training data downloaded from the Kaggle PLAsTiCC is in the same directory as the LSST_summerpai.ipynb
 
 [Data for this demo can be found HERE](https://www.kaggle.com/c/PLAsTiCC-2018/data)
+
 [Data overview video](https://www.youtube.com/watch?v=dYgK0XHIK-0)
