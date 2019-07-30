@@ -5,8 +5,8 @@ Welcome to ProjectYumo's Github! Here you will find all the code designed for th
 Please set up a Jupyter Notebook or your Google Colab Environment in order to open the file. 
 If using Jupyter Notebook, please make sure training data downloaded from the Kaggle PLAsTiCC is in the same directory as the LSST_summerpai.ipynb
 
-[Tutorial for Google Colab w/ GPU usage HERE](https://youtu.be/zg_AXwVTOYA)
+[Tutorial for Google Colab w/ GPU usage.](https://youtu.be/zg_AXwVTOYA)
 
-[Data for this demo can be found HERE](https://www.kaggle.com/c/PLAsTiCC-2018/data)
+[Data for this demo can be found.](https://www.kaggle.com/c/PLAsTiCC-2018/data)
 
-[Data overview video](https://www.youtube.com/watch?v=dYgK0XHIK-0)
+[Data overview video.](https://www.youtube.com/watch?v=dYgK0XHIK-0)
