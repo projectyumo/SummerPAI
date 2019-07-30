@@ -1,5 +1,6 @@
 # SummerPAI
-
+Welcome to ProjectYumo's Github! Here you will find all the code designed for the demos uploaded on the Youtube Channel:
+[Check it out!](https://www.youtube.com/channel/UC2Z4Egnb78HCvSzPKrrRCWQ)
 # To use LSST_summerpai.ipynb
 Please set up a Jupyter Notebook or your Google Colab Environment in order to open the file. 
 Tutorial for Google Colab w/ GPU usage here: https://youtu.be/zg_AXwVTOYA
