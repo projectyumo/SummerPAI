@@ -7,6 +7,6 @@ If using Jupyter Notebook, please make sure training data downloaded from the Ka
 
 [Tutorial for Google Colab w/ GPU usage.](https://youtu.be/zg_AXwVTOYA)
 
-[Data for this demo can be found.](https://www.kaggle.com/c/PLAsTiCC-2018/data)
+[Data for this demo.](https://www.kaggle.com/c/PLAsTiCC-2018/data)
 
 [Data overview video.](https://www.youtube.com/watch?v=dYgK0XHIK-0)
