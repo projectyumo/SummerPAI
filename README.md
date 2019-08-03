@@ -10,3 +10,6 @@ If using Jupyter Notebook, please make sure training data downloaded from the Ka
 [Data for this demo.](https://www.kaggle.com/c/PLAsTiCC-2018/data)
 
 [Data overview video.](https://www.youtube.com/watch?v=dYgK0XHIK-0)
+
+# CNN_Test.ipynb
+Test your understanding of the Convolutional Neural Network algorithm! Figure out the correct feature map sizes given the image size, kernel size, stride, and padding!
