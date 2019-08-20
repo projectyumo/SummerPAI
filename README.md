@@ -13,3 +13,10 @@ If using Jupyter Notebook, please make sure training data downloaded from the Ka
 
 # CNN_Test.ipynb
 Test your understanding of the Convolutional Neural Network algorithm! Figure out the correct feature map sizes given the image size, kernel size, stride, and padding!
+
+# SPAI_lens_dataset.zip
+Gravitational Lensing images to demo how to train a Convolutional Neural Network.
+
+# Lensing_CNN.ipynb
+Code for the demo on how to train Convolutional Neural Networks.
+
